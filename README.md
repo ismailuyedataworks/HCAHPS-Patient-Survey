@@ -53,7 +53,7 @@ Experience the interactive dashboard live here:
 ---
 
 ## 🖼️ Dashboard Preview 
-![Northwind Trader Dashboard](Dashboard_HCAHPS.png)
+![Northwind Trader Dashboard](Dashboard_HCAHPS_Survey.png)
 
 ---
 
