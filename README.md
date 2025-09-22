@@ -1,5 +1,11 @@
 # <img width="40" height="25" alt="image" src="https://github.com/user-attachments/assets/68b4620a-ac24-4aae-80fd-6ef13a78e8d1" /> HCAHPS Patient Survey Analysis  
 
+![GitHub last commit](https://img.shields.io/github/last-commit/ismailuyedataworks/HCAHPS-patient-survey)  
+![GitHub repo size](https://img.shields.io/github/repo-size/ismailuyedataworks/HCAHPS-patient-survey)  
+![GitHub stars](https://img.shields.io/github/stars/ismailuyedataworks/HCAHPS-patient-survey?style=social)  
+
+---
+
 ## 📌 Project Title  
 **Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) Patient Survey (2013–2022)**  
 
